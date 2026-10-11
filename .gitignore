@@ -1,0 +1,5 @@
+target/
+nbproject/private/
+*.class
+agenda.txt
+reporte_curso.txt
